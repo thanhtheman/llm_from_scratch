@@ -1,0 +1,1 @@
+We build an LLM (mini version) from scratch to understand inside out of how an LLM is actually built and work under the hood. 
